@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lekoz1337
+- 👀 I’m interested in: HTML, CSS, JS, MYSQL, PHP etc.
+- 🌱 I’m currently learning: JAVA, C#
+- 📫 How to reach me?: ! Lekoz#9999
