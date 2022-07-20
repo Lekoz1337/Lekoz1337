@@ -23,7 +23,7 @@
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Lekoz1337)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lekoz1337&theme=radical)
 
