@@ -21,5 +21,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lekoz&show_icons=true&locale=en&layout=compact" alt="lekoz" /></p>
 
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lekoz1337&theme=radical)
 
