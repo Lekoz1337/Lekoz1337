@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lekoz&show_icons=true&locale=en&layout=compact" alt="lekoz" /></p>
 
-GitHub Stats URL:- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lekoz1337 &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lekoz1337 &theme=radical)
 
